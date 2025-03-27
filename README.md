@@ -28,7 +28,7 @@ The MKCD code has been implemented and tested in the following development envir
 - **disease_name.npy**: Contains the names of 138 diseases.
 - **miRNA_name.npy**: Contains the names of 555 diseases.
 - **circRNA_disease.npy**: Contains the circRNA_disease associations.  
-- **circRNA_miRNA.npy**: Contains the circRNA_miRNA associations.  
+- **circRNA_miRNA.npy**: Contains the circRNA_miRNA interactions.  
 - **disease_miRNA.npy**: Contains the disease_miRNA associations.  
 - **disease_disease.npy**: Contains the disease similarities.  
 - **miRNA_miRNA.npy**: Contains the miRNA similarities.  
