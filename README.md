@@ -1,7 +1,7 @@
 # MKCD  
 
 ## Introduction  
-The project  is an implementation of a multi-scale neighbor topology-guided transformer with Kolmogorov-Arnold network enhanced feature learning for circRNA and disease association prediction (MKCD). 
+The project  is an implementation of a multi-scale neighbor topology-guided transformer with Kolmogorov-Arnold network enhanced feature learning for circRNA and disease association prediction (MKCD). If you have any questions, please contact the email gtalhy@163.com.
 
 ---
 
