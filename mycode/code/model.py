@@ -364,6 +364,7 @@ class Net(nn.Module):
         self.l2 = nn.Linear(512, 256)
         self.l3 = nn.Linear(256, 2) 
         self.resKan = KAN([1527*2, 1024, 256])
+        # self.multkan = MultKAN([3968, 512, 2]) # MultKAN模型
         self.leakyrelu = nn.LeakyReLU()
         self.d = nn.Dropout(0.5) 
         self.alpha = nn.Parameter(torch.tensor(1, dtype=torch.float32))
