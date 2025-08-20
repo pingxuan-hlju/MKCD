@@ -11,6 +11,8 @@ The project  is an implementation of a multi-scale neighbor topology-guided tran
 - **dataloader.py**: Processes the disease, circRNA and miRNA similarities, associations, embeddings, and feature matrices.
 - **model.py**: Defines the model.
 - **main.py**: Trains the model.
+- **SF1.xlsx**: Contains the top 15 circRNA candidates predicted by MKCD for each disease.
+- **Supporting_Information_SF2.docx**: Contains the supplementary experiments and analysis.
 
 ---
 
